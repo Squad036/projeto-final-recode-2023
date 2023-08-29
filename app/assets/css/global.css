@@ -1,0 +1,47 @@
+*{
+	margin:0 ;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+
+.bg-menu-sgme{
+	background: #4682B4;
+}
+
+.w-img-200{
+	width: 200px;
+}
+
+.h-app-main{
+	min-height: 85dvh;
+	background: #fffbfb8c;
+}
+
+
+.text-app-sgme{
+	color: #4e5f75;
+}
+
+.card_receber{
+	width: 250px;
+	border-top: 1px solid #00860D;
+	border-right: 1px solid #00860D;
+	border-left: 1px solid #00860D;
+	border-bottom: 20px solid #00860D;
+
+}
+
+.card_pagar{
+	width: 250px;
+	border-top: 1px solid #ff5510;
+	border-right: 1px solid #ff5510;
+	border-left: 1px solid #ff5510;
+	border-bottom: 20px solid #ff5510;
+
+}
+/*Links Globais*/
+.dropdown-item:hover{
+	background-color: #949699;
+	color: #FFF;
+}

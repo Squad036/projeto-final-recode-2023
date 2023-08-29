@@ -1,0 +1,15 @@
+@media (min-width:293px) and (max-width: 998px) { 
+
+	main > .container{
+		padding: 10px !important;
+	}
+
+	.container-form {
+		padding-bottom: 20px;
+		margin-bottom: 20px;
+	}
+	.container-form_content{
+		width: 100% !important;
+	}
+
+}

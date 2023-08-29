@@ -1,0 +1,19 @@
+@media (min-width: 360px) and (max-width: 798px) { 
+	.parceiro-card_content{
+		width: 100% !important;
+		padding: 5px !important;
+	
+		flex-direction: row-reverse !important;
+
+	}
+
+	.parceiro-card_content img{
+		width: 100% !important;
+		
+	}
+
+	.parceiro-card_content .btn{
+		width: 100%;
+
+	}
+}
