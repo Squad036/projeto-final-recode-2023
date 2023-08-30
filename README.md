@@ -1,6 +1,9 @@
 # Projeto-recode-2023-site
 Primeira entrega do projeto final do Recode-Pro 2023
 O Site foi desenvolvido em HTML, Css e BootStrap. 
+# Objetivo
+Este projeto tem como objetivo criar um sistema MVP de um sistema de Gestão para microempreendedores, que contem controle de estoques, contas a pagar e receber, acompanhamento de vendas e Fluxo de caixa.
+E com uma base de conhecimento para que o microempreendedor possa obter o conhecimento necessário para fazer a gestão do seu negócio.
 
 ## Para visualizar o projeto:
 <li>Clone o repositório
